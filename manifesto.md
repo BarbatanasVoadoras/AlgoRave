@@ -1,8 +1,13 @@
-# TOPLAP Manifesto
+---
+layout: page
+title: Manifesto
+permalink: /manifesto/
+---
+# [TOPLAP Manifesto](https://toplap.org/wiki/Main_Page)
 ### Context
 Live coding is a new direction in electronic music and video: live coders expose and rewire the innards of software while it generates improvised music and/or visuals. All code manipulation is projected for your pleasure. TOPLAP has been collectively developing, exploring and promoting live coding since it was formed in a smoky bar in Hamburg in 2004.
 
-## 'Original' TOPLAP draft manifesto (with focus on music performance)
+## ['Original' TOPLAP draft manifesto (with focus on music performance)](https://toplap.org/wiki/ManifestoDraft)
 
 ### We demand:
 
