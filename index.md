@@ -14,4 +14,4 @@ Traga seus ouvidos, sua mente, eventualmente seu corpo e venha desfrutar dessa e
 [Computadores fazem Arte!](https://www.youtube.com/watch?v=AEjD_AqVHq0)
 
 
-![algorave](https://user-images.githubusercontent.com/1857142/195190656-a792375f-8796-4541-a77e-9d9e5be636c3.png)
+![algorave](https://user-images.githubusercontent.com/1857142/195194498-a25ffe8e-5d27-4c58-9c97-5a3b18fb05ec.png)
