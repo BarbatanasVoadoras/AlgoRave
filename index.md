@@ -2,7 +2,7 @@
 layout: home
 ---
 # Boas vindas à AlgoRave - Laguna
-Uma parceria com **Outro Selo - Laboratório de Arte** realizam a primeira edição da AlgoRave.
+Uma parceria das [**Barbatanas Voadoras**](https://www.instagram.com/barbatanasvoadoras/) com [**Outro Selo - Laboratório de Arte**](https://www.instagram.com/outroselo/) realizam a primeira edição da AlgoRave.
 
 
 A AlgoRave é um evento com a finalidade de propagar a computação musical e a arte de fazer música com códigos.
