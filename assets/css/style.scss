@@ -1,19 +1,14 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-/*
-header {
-    background-color: #000000;
-    h1 {
-	color: #ffffff;
-    }
-}
-*/
-body {
-  background-color: #000000;
-  background-image: url(../../back.jpg);
-  height: 700px;
-  width:100%;
-  background-size:cover;
-}
+// @import "{{ site.theme }}";
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+// body {
+//   background-color: #000000;
+//   background-image: url(../../img/back.jpg);
+//   height: 700px;
+//   width:100%;
+//   background-size:cover;
+// }

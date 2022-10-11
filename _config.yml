@@ -31,6 +31,9 @@ email: ciclotux@gmail.com
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
+
 plugins:
   - jekyll-feed
 
