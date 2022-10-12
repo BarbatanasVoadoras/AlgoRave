@@ -34,8 +34,12 @@ theme: minima
 minima:
   skin: dark
 
+# theme: dark-minima
+# remote_theme: songzivong/dark-minima
+
 plugins:
   - jekyll-feed
+  # - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
