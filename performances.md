@@ -10,7 +10,7 @@ permalink: /performances/
 * Ciclotux 8:30 PM
 * Sintodrama 9:00 PM
 * Treethought 10:00 PM
-* Iris 11:00 PM
+* irisS 11:00 PM
 
 
 # Illestpreacha
@@ -27,5 +27,5 @@ duo de música eletrônica experimental formado por Kauê Werner e Filipe Malisk
 # Treethought
 is a cycle carpenter and stitcher of found sounds. performing with tidalcycles and hydra.
 
-# Iris Saladino
+# irisS
 livecoder based in Buenos Aires. She studied contemporary music and electronic arts. She currently plays using TidalCycles and hydra and sometimes combines her sets with other technologies such as threejs.
