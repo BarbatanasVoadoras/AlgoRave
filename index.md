@@ -12,7 +12,7 @@ Esta edição, teremos algumas performances remotas, que também serão exibidas
 Traga seus ouvidos, sua mente, eventualmente seu corpo e venha desfrutar dessa experiência!
 
 Assista online (Sábado _29/10 às 19:00_):
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/_5gvBKAnABY" width="480"></iframe>
+<iframe frameborder="0" height="270" src="https://youtu.be/UeaIRzneUQA" width="480"></iframe>
 
 [Computadores fazem Arte!](https://www.youtube.com/watch?v=AEjD_AqVHq0)
 
